@@ -1,7 +1,7 @@
 ## Install Dependencies
 Run `npm install` in root folder.
 
-## Development server
+## Running the App
 
 Run `ng serve` for a dev server in root folder. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
